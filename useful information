@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <title>Полезная информация</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Полезная информация</h1>
+      <h2>Советы новичкам</h2>
+      <ol>
+        <li>Используй шапку, подвал, основной заголовок</li>
+        <li>Добавляй отступы</li>
+        <li>Подбирай цвета по цветовому кругу</li>
+        <li>Соблюдай симметрию</li>
+        <li>Пиши код понятно</li>
+        <li>Выделяй интерактивные элементы</li>
+      </ol>
+      <h2>Инструменты</h2>
+      <div class="help-sites">
+        <p>Онлайн-конструктор <a class="link-text" href="https://tilda.cc/ru/"><b>Tilda</b></a></p>
+        <p>Графический редактор <a class="link-text" href="https://www.figma.com/"><b>Figma</b></a></p>
+        <p>Бесплатный сток иконок <a class="link-text" href="https://www.flaticon.com/ru/"><b>FlatIcon</b></a></p>
+        <p>Проверка качества текста <a class="link-text" href="https://glvrd.ru/"><b>Главред</b></a></p>
+        <p>Цветовой круг <a class="link-text" href="https://colorscheme.ru/"><b>Colorsheme</b></a></p>
+        <p>Энциклопедия <a class="link-text" href="http://htmlbook.ru/html"><b>HTML</b></a> и <a class="link-text" href="http://htmlbook.ru/css"><b>CSS</b></a></p>
+        <p>Цвета HTML <a class="link-text" href="https://colorscheme.ru/html-colors.html"><b>colors</b></a></p>
+    </main>
+    <footer>
+      <a class="social" href="https://www.youtube.com/channel/UCm8BM6aPIWGI4FYQIBPjkrw"><img src="https://cdn-icons-png.freepik.com/256/2504/2504965.png?semt=ais_hybrid" width="100px" height="100px"/></a>
+      <a class="social" href="https://sites.google.com/view/playgame-downloads/visualviruses"><img src="https://sun9-79.userapi.com/impg/otQYI412mMSpp95qWSuQEiRdnRsATwWY5ZJZfQ/PDime1Q184o.jpg?size=375x324&quality=95&sign=cacc6b10197cb95d5e6afb3bba85e8a9&type=album" width="100px" height="100px"/></a>
+      <a class="social" href="https://playerok.com/profile/Paketik-Shop/products"><img src="data:image/png;base64,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" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
